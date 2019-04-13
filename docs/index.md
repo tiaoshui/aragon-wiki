@@ -1,4 +1,4 @@
-# Welcome to the Aragon Wiki
+# Welcome to the TST Wiki
 
 ![](images/logo_text_right_dark.png)
 
