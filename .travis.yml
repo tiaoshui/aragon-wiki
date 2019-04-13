@@ -20,7 +20,7 @@ deploy:
   skip-cleanup: true
 # github-token is Generated in Github Developer Settings -> Personal Access Token (public_repo checked)
 # It also needs to be set in TravisCI as a enviroment variable with the value. (Reminder do not show this in logs.)
-  github-token: $GH_TOKEN
+  github-token: ${gh_token}
   local-dir: site
   keep-history: true
   target-branch: gh-pages
