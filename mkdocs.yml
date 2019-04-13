@@ -1,7 +1,7 @@
-site_name: 'Aragon Wiki'
+site_name: 'TST'
 repo_name: 'aragon/aragon-wiki'
 repo_url: 'https://github.com/aragon/aragon-wiki'
-site_description: 'Wiki for the Aragon Project'
+site_description: 'TST'
 theme:
   name: 'material'
   palette:
@@ -19,15 +19,7 @@ extra_javascript:
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/aragon'
-    - type: 'medium'
-      link: 'https://blog.aragon.one/'
-    - type: 'reddit'
-      link: 'https://www.reddit.com/r/aragonproject/'
-    - type: 'twitter'
-      link: 'https://twitter.com/AragonProject'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/company/aragonproject/'
+      link: 'https://github.com/tiaoshui/'
   feature:
     tabs: false
 markdown_extensions:
