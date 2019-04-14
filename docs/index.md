@@ -1,4 +1,4 @@
-# Welcome to the TST Wiki
+# 欢迎
 
 We believe [decentralized organizations can solve the world’s worst problems](https://blog.aragon.org/decentralized-organizations-can-solve-the-worlds-worst-problems-840db6255d12). That's why we are building Aragon.
 
