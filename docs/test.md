@@ -7,8 +7,7 @@
 
 everyone can
 
-![_ poetic birds windows turn on nature](images/_ poetic birds windows turn on nature.jpg)
-
+![4bc6d524ly4fyxxr5zjg6j20sg0sg74b](4bc6d524ly4fyxxr5zjg6j20sg0sg74b.jpg)
 
 social practice oriented
 
